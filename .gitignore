@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local configuration
+.vscode/
+
+# Local curriculum/data
+curriculum/
+
+# Generated evaluation results
+results/
+
+# Secrets / environment variables
+.env
+
+# Temporary files
+*.tmp
