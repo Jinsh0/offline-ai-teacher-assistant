@@ -1,3 +1,4 @@
+#testing to evaluate the ollama models, by supplying the prompt directly here
 import json
 from pathlib import Path
 
