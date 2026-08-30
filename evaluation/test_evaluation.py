@@ -84,8 +84,8 @@ for item in PROMPTS:
     )
 
 
-output_folder = Path("results")
-output_folder.mkdir(exist_ok=True)
+output_folder = Path("results") / "raw"
+output_folder.mkdir(parents=True, exist_ok=True)
 
 output_file = output_folder / "qwen35_4b_test.json"
 

@@ -1,0 +1,32 @@
+[
+  {
+    "model": "qwen3.5:4b",
+    "prompt_id": "Q1_EN",
+    "language": "English",
+    "prompt": "Explain in one short paragraph what photosynthesis is.",
+    "response": "Photosynthesis is the biological process by which plants, algae, and some bacteria convert light energy into chemical energy to fuel their growth. Using sunlight as a power source, these organisms capture carbon dioxide from the air and water absorbed from the soil within specialized structures like leaves containing chlorophyll. Through this transformation, they produce glucose—a form of stored sugar that serves as food for the organism—and release oxygen back into the atmosphere as a vital byproduct essential for most life on Earth.",
+    "input_tokens": 23,
+    "output_tokens": 96,
+    "total_seconds": 9.0109962,
+    "load_seconds": 6.4795271,
+    "prompt_seconds": 0.131281,
+    "generation_seconds": 2.390155,
+    "tokens_per_second": 40.1647591892576,
+    "thinking": false
+  },
+  {
+    "model": "qwen3.5:4b",
+    "prompt_id": "Q1_ID",
+    "language": "Bahasa Indonesia",
+    "prompt": "Jelaskan dalam satu paragraf singkat apa itu fotosintesis.",
+    "response": "Fotosintesis adalah proses biologis yang terjadi pada tumbuhan, alga, dan beberapa bakteri di mana mereka mengubah energi cahaya matahari menjadi energi kimia untuk digunakan sebagai sumber makanan. Melalui serangkaian reaksi kompleks di dalam kloroplas—terutama di struktur bernama tilakoid dan stroma—proses ini memanfaatkan pigmen hijau (klorofil) menyerap foton dari sinar matahari agar dapat mengoksidasi air ($H_2O$) menghasilkan elektron, sementara menggabungkan karbon dioksida ($CO_2$) dengan produk sampingan tersebut. Hasil akhirnya adalah pembentukan gula atau karbohidrat yang diperlukan untuk pertumbuhan dan metabolisme organisme hijau tersebut serta pelepasan oksigen ($O_2$) sebagai hasil buangan vital bagi kehidupan di Bumi.",
+    "input_tokens": 26,
+    "output_tokens": 155,
+    "total_seconds": 4.8735125,
+    "load_seconds": 1.1187814,
+    "prompt_seconds": 0.18652,
+    "generation_seconds": 3.491754,
+    "tokens_per_second": 44.390297827395635,
+    "thinking": false
+  }
+]
