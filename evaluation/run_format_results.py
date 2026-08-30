@@ -18,6 +18,25 @@ def load_results(file_path):
 def format_result_file(file_path):
     results = load_results(file_path)
 
+    #added this 'order' and 'sort' so each question come in sequence (easier to do manual review)
+    order = {
+        "Q1_EN": 1,
+        "Q1_ID": 2,
+        "Q2_EN": 3,
+        "Q2_ID": 4,
+        "Q3_EN": 5,
+        "Q3_ID": 6,
+        "Q4_EN": 7,
+        "Q4_ID": 8
+    }
+
+    results.sort(
+        key=lambda item: order.get(
+            item["prompt_id"],
+            999
+        )
+    )
+
     model_name = (
         results[0]["model"]
         if results
@@ -51,6 +70,9 @@ def format_result_file(file_path):
         )
         lines.append("")
 
+        lines.append("---")
+        lines.append("")
+
         lines.append("### Prompt")
         lines.append("")
         lines.append(item["prompt"])
@@ -66,9 +88,18 @@ def format_result_file(file_path):
 
         lines.append("### Response")
         lines.append("")
-        lines.append(
-            item.get("response", "")
+
+        response_text = item.get(
+            "response",
+            ""
         )
+
+        quoted_response = "\n".join(
+            f"> {line}"
+            for line in response_text.splitlines()
+        )
+
+        lines.append(quoted_response)
         lines.append("")
 
         lines.append("### Performance")
@@ -109,6 +140,31 @@ def format_result_file(file_path):
             f"- Thinking requested: "
             f"{item.get('thinking_requested', '')}"
         )
+
+        lines.append("")
+
+        lines.append("### Review")
+        lines.append("")
+
+        lines.append(
+            "| Evaluator | Accuracy (& Safety) | "
+            "Instruction Following | Clarity & Usefulness | "
+            "Language Quality | Total / 8 |"
+        )
+
+        lines.append(
+            "|---|---:|---:|---:|---:|---:|"
+        )
+
+        lines.append(
+            "| Human |  |  |  |  |  |"
+        )
+
+        lines.append(
+            "| AI |  |  |  |  |  |"
+        )
+
+        lines.append("")
 
         if item.get("error"):
             lines.append(

@@ -8,6 +8,8 @@
 
 **Purpose:** Detailed factual knowledge and instruction following
 
+---
+
 ### Prompt
 
 I have an oven, an air fryer, and a frying pan, but no outdoor grill.
@@ -64,33 +66,33 @@ I need to make sure each step is clear and practical, avoiding personal preferen
 
 ### Response
 
-**Cooking a Beef Steak Using Reverse-Sear Method**
-
-**Preparation Steps:**
-1. **Preheat Oven:** Set the oven to 375°F (190°C) for reverse-sear cooking conditions.
-2. **Season Steak:** 
-   - Mix a teaspoon of salt, half a teaspoon each of red pepper, black pepper, garlic powder, oregano, and olive oil.
-   - In a jar or bowl, combine soy sauce, balsamic vinegar, olive oil, garlic fresh (for flavor control), and lemon juice to make the seasonings.
-3. **Seasoning:** Season the steak with the mixture, spreading evenly.
-
-**Preparation of Serving Surface:**
-- Use a roasting pan or skillet for searing.
-
-**Cooking Process:**
-1. **Cover and Sear:** Place steak in an oven-safe dish (like a baking sheet) and cover with olive oil. Heat until golden on one side, about 2-3 minutes.
-2. **Remove from Oven:** Flip the steak quickly without overcooking the exterior; this prevents burning while maintaining internal tenderness.
-3. **Rest:** Allow to rest for 10-15 minutes before serving.
-
-**After Serving:**
-- Serve steaks over a pan sauce or as side dishes, avoiding any flame-causing sauces.
-
-**Practical Tips:**
-- **Searing Technique:** Use a slow-cooked method by covering the steak with oil and letting it cook on one side for longer periods to evenly brown the surface.
-- **Prevent Charring:** Avoid flames; use herbs like fresh garlic or cloves, or apply a low-dose herbicide once before serving. Use an oil-free cooking method post-reoval.
-- **Reduce Smoke:** Opt for natural smoke control by avoiding flammable sauces and using a brine solution from the start to kill bacteria.
-
-**Texture Control:**
-- Let steak rest slightly longer if it feels mushy; flip quickly to enhance texture without burning the exterior.
+> **Cooking a Beef Steak Using Reverse-Sear Method**
+> 
+> **Preparation Steps:**
+> 1. **Preheat Oven:** Set the oven to 375°F (190°C) for reverse-sear cooking conditions.
+> 2. **Season Steak:** 
+>    - Mix a teaspoon of salt, half a teaspoon each of red pepper, black pepper, garlic powder, oregano, and olive oil.
+>    - In a jar or bowl, combine soy sauce, balsamic vinegar, olive oil, garlic fresh (for flavor control), and lemon juice to make the seasonings.
+> 3. **Seasoning:** Season the steak with the mixture, spreading evenly.
+> 
+> **Preparation of Serving Surface:**
+> - Use a roasting pan or skillet for searing.
+> 
+> **Cooking Process:**
+> 1. **Cover and Sear:** Place steak in an oven-safe dish (like a baking sheet) and cover with olive oil. Heat until golden on one side, about 2-3 minutes.
+> 2. **Remove from Oven:** Flip the steak quickly without overcooking the exterior; this prevents burning while maintaining internal tenderness.
+> 3. **Rest:** Allow to rest for 10-15 minutes before serving.
+> 
+> **After Serving:**
+> - Serve steaks over a pan sauce or as side dishes, avoiding any flame-causing sauces.
+> 
+> **Practical Tips:**
+> - **Searing Technique:** Use a slow-cooked method by covering the steak with oil and letting it cook on one side for longer periods to evenly brown the surface.
+> - **Prevent Charring:** Avoid flames; use herbs like fresh garlic or cloves, or apply a low-dose herbicide once before serving. Use an oil-free cooking method post-reoval.
+> - **Reduce Smoke:** Opt for natural smoke control by avoiding flammable sauces and using a brine solution from the start to kill bacteria.
+> 
+> **Texture Control:**
+> - Let steak rest slightly longer if it feels mushy; flip quickly to enhance texture without burning the exterior.
 
 ### Performance
 
@@ -102,6 +104,14 @@ I need to make sure each step is clear and practical, avoiding personal preferen
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q1_ID — Practical Knowledge
@@ -109,6 +119,8 @@ I need to make sure each step is clear and practical, avoiding personal preferen
 **Language:** Bahasa Indonesia
 
 **Purpose:** Detailed factual knowledge and instruction following
+
+---
 
 ### Prompt
 
@@ -152,93 +164,93 @@ I think I've covered all the points the user mentioned, making sure each step is
 
 ### Response
 
-Setelah perencanaan ini, Anda dapat menambahkan wajan untuk memasak siap ke dalam segmen otokendang air fryer dan di luar ruangan. Berikut langkah-langkah yang lebih baik:
-
----
-
-### 1. **Persiapan dan Pemberian Bumbu**
-   - **Wjan**:
-     - Periksa kualitas wajan dan buat membulat atau memperbaiki seperti diperlukan.
-     - Lalu, lakukan microwave-waagan wajan untuk mengatur hujah yang sesuai (tergantung pada permintaan Anda) sebelum melanjutkan proses.
-   - **Otokendang Air Fryer**:
-     - Periksa dan memperbaiki air fryer. Jika diperlukan, buat wajeh seperti saus dengan benar dan layak.
-   - Periksa di mana terkemudah (sehingga tidak terpotong) dan sejajar ke dalam otokendang air fryer.
-
----
-
-### 2. **Suhu Otokendang**:
-   - Pastikan otokendang air Fryer dan wjan sudah terpreheated, terlebih dahulu di microwave-terpisah.
-   - Pastikan otokendang air Fryer selesai preheating sebelum melanjutkan proses. Wajeh saus bisa diperlukan untuk di-luar ruangan (saya memilih saus sederhana menggunakan wajan, seperti saus dari bungsu).
-
----
-
-### 3. **Percepatan Siang**:
-   - Kapan siang siap selesai seharusnya sebelum otokendang air Fryer dan wjan selesai preheating.
-     - *Di sementara*, otokendang air Fryer dan wjan selesai preheating.
-     - Pastikan otokendang air Fryer dan wjan setelah preheating, lalu melanjutkan proses otokendang air Fryer dan wjan selesai.
-
----
-
-### 4. **Cara Searing Tanpa Memotong Bagian Luar Siang**:
-   - Masukkan siap siang (saus) ke dalam otokendang air Fryer.
-   - Pastikan saus tidak terlebarn ke dalam otokendang air Fryer sebelum melanjutkan proses otokendang air Fryer.
-   - Sebaris sehari:  
-     - Wajeh saus dalam otokendang air Fryer dan saus di luar ruangan (dalam wjan/microwave).
-     - Perbaiki hujah dan kecepatan otokendang air Fryer dan wjan setelah selesai preheating.
-   - Sebaris sehari selesai otokendang air Fryer dan wjan, pastikan saus selesai sebab otokendang air Fryer dan wjan selesai seharusnya selesai.
-
----
-
-### 5. **Target Suhu Internal**:
-   - *Perlu*: Siang seharusnya sekitar **175°F (79°C)** sebelum otokendang air Fryer dan wjan selesai preheating.
-   - Pastikan siang selesai seharusnya sekitar **180°F (82°C)** sebelum otokendang air Fryer dan wjan selesai preheating.
-
----
-
-### 6. **Waktu untuk Melanjutkan Siang**:
-   - *Perlu*: Siang seharusnya sekitar **10 menit** sebelum otokendang air Fryer dan wjan selesai preheating.
-   - Perbaiki hujah dan kecepatan otokendang air Fryer dan wjan setelah selesai preheating.
-
----
-
-### 7. **Mengurangi Gosong Berlebihan, Asap, dan Peningkatan Senyawa yang Berpotensi Berbahaya**:
-   - **Saus Sederhana**:  
-     - Wajeh saus sederhana (misalnya: saus dari bungsu) untuk sebanyak 1-2 lebar.
-   - **Menyusun Saus di Oleah**:  
-     - Saus disusun di dalam petidul atau saudaribungsu yang berada kecil dan tidak terpotong.
-   - **Kebutuhan Senyawa**:
-     - Saus biasa (lebar 1-2 cm).
-     - Air Fryer dan wjan selesai preheating seharusnya sebelum otokendang air Fryer dan wjan selesai.
-   - **Peningkatan Gosong**:  
-     - Saus sepotong seharusnya sekitar **1-2 cm** sebelum disusun di dalam saus.
-
----
-
-### 8. **Asah Siang Hingga Otokendang Air Fryer dan Wjan Selesai**
-   - Saus disusun di dalam petidul sebelum otokendang air Fryer dan wjan selesai.
-   - Pastikan saus tidak terpotong ke dalam otokendang air Fryer dan wjan.
-
----
-
-### 9. **Merelempar Siang Di Alas Oleah**
-   - Saus disusun di dalam petidul sekarang ke alas otokendang air Fryer dan wjan.
-   - Saus seharusnya seharusnya sekitar **1 cm** dari alas otokendang air Fryer dan wjan.
-
----
-
-### 10. **Mengurangi Gosong, Asap, dan Peningkatan Senyawa di Oleah**
-   - Masukkan saus seharusnya sekitar **1-2 cm** ke dalam petidul ordo.
-   - Saus sepotong seharusnya sekitar **1 cm** ke dalam alas otokendang air Fryer dan wjan.
-
----
-
-### 11. **Saya Pastikan Siap Siang**
-   - Saus seharusnya seharusnya sekitar **2-3 cm** dari puncak siang.
-   - Wajeh saus seharusnya sebelum disusun di dalam petidul dan otokendang air Fryer dan wjan selesai.
-
---- 
-
-**Pralaat**, pastikan sebelum otokendang air Fryer dan wjan selesai, saus seharusnya sekitar **2-3 cm** dari puncak siang.
+> Setelah perencanaan ini, Anda dapat menambahkan wajan untuk memasak siap ke dalam segmen otokendang air fryer dan di luar ruangan. Berikut langkah-langkah yang lebih baik:
+> 
+> ---
+> 
+> ### 1. **Persiapan dan Pemberian Bumbu**
+>    - **Wjan**:
+>      - Periksa kualitas wajan dan buat membulat atau memperbaiki seperti diperlukan.
+>      - Lalu, lakukan microwave-waagan wajan untuk mengatur hujah yang sesuai (tergantung pada permintaan Anda) sebelum melanjutkan proses.
+>    - **Otokendang Air Fryer**:
+>      - Periksa dan memperbaiki air fryer. Jika diperlukan, buat wajeh seperti saus dengan benar dan layak.
+>    - Periksa di mana terkemudah (sehingga tidak terpotong) dan sejajar ke dalam otokendang air fryer.
+> 
+> ---
+> 
+> ### 2. **Suhu Otokendang**:
+>    - Pastikan otokendang air Fryer dan wjan sudah terpreheated, terlebih dahulu di microwave-terpisah.
+>    - Pastikan otokendang air Fryer selesai preheating sebelum melanjutkan proses. Wajeh saus bisa diperlukan untuk di-luar ruangan (saya memilih saus sederhana menggunakan wajan, seperti saus dari bungsu).
+> 
+> ---
+> 
+> ### 3. **Percepatan Siang**:
+>    - Kapan siang siap selesai seharusnya sebelum otokendang air Fryer dan wjan selesai preheating.
+>      - *Di sementara*, otokendang air Fryer dan wjan selesai preheating.
+>      - Pastikan otokendang air Fryer dan wjan setelah preheating, lalu melanjutkan proses otokendang air Fryer dan wjan selesai.
+> 
+> ---
+> 
+> ### 4. **Cara Searing Tanpa Memotong Bagian Luar Siang**:
+>    - Masukkan siap siang (saus) ke dalam otokendang air Fryer.
+>    - Pastikan saus tidak terlebarn ke dalam otokendang air Fryer sebelum melanjutkan proses otokendang air Fryer.
+>    - Sebaris sehari:  
+>      - Wajeh saus dalam otokendang air Fryer dan saus di luar ruangan (dalam wjan/microwave).
+>      - Perbaiki hujah dan kecepatan otokendang air Fryer dan wjan setelah selesai preheating.
+>    - Sebaris sehari selesai otokendang air Fryer dan wjan, pastikan saus selesai sebab otokendang air Fryer dan wjan selesai seharusnya selesai.
+> 
+> ---
+> 
+> ### 5. **Target Suhu Internal**:
+>    - *Perlu*: Siang seharusnya sekitar **175°F (79°C)** sebelum otokendang air Fryer dan wjan selesai preheating.
+>    - Pastikan siang selesai seharusnya sekitar **180°F (82°C)** sebelum otokendang air Fryer dan wjan selesai preheating.
+> 
+> ---
+> 
+> ### 6. **Waktu untuk Melanjutkan Siang**:
+>    - *Perlu*: Siang seharusnya sekitar **10 menit** sebelum otokendang air Fryer dan wjan selesai preheating.
+>    - Perbaiki hujah dan kecepatan otokendang air Fryer dan wjan setelah selesai preheating.
+> 
+> ---
+> 
+> ### 7. **Mengurangi Gosong Berlebihan, Asap, dan Peningkatan Senyawa yang Berpotensi Berbahaya**:
+>    - **Saus Sederhana**:  
+>      - Wajeh saus sederhana (misalnya: saus dari bungsu) untuk sebanyak 1-2 lebar.
+>    - **Menyusun Saus di Oleah**:  
+>      - Saus disusun di dalam petidul atau saudaribungsu yang berada kecil dan tidak terpotong.
+>    - **Kebutuhan Senyawa**:
+>      - Saus biasa (lebar 1-2 cm).
+>      - Air Fryer dan wjan selesai preheating seharusnya sebelum otokendang air Fryer dan wjan selesai.
+>    - **Peningkatan Gosong**:  
+>      - Saus sepotong seharusnya sekitar **1-2 cm** sebelum disusun di dalam saus.
+> 
+> ---
+> 
+> ### 8. **Asah Siang Hingga Otokendang Air Fryer dan Wjan Selesai**
+>    - Saus disusun di dalam petidul sebelum otokendang air Fryer dan wjan selesai.
+>    - Pastikan saus tidak terpotong ke dalam otokendang air Fryer dan wjan.
+> 
+> ---
+> 
+> ### 9. **Merelempar Siang Di Alas Oleah**
+>    - Saus disusun di dalam petidul sekarang ke alas otokendang air Fryer dan wjan.
+>    - Saus seharusnya seharusnya sekitar **1 cm** dari alas otokendang air Fryer dan wjan.
+> 
+> ---
+> 
+> ### 10. **Mengurangi Gosong, Asap, dan Peningkatan Senyawa di Oleah**
+>    - Masukkan saus seharusnya sekitar **1-2 cm** ke dalam petidul ordo.
+>    - Saus sepotong seharusnya sekitar **1 cm** ke dalam alas otokendang air Fryer dan wjan.
+> 
+> ---
+> 
+> ### 11. **Saya Pastikan Siap Siang**
+>    - Saus seharusnya seharusnya sekitar **2-3 cm** dari puncak siang.
+>    - Wajeh saus seharusnya sebelum disusun di dalam petidul dan otokendang air Fryer dan wjan selesai.
+> 
+> --- 
+> 
+> **Pralaat**, pastikan sebelum otokendang air Fryer dan wjan selesai, saus seharusnya sekitar **2-3 cm** dari puncak siang.
 
 ### Performance
 
@@ -250,6 +262,14 @@ Setelah perencanaan ini, Anda dapat menambahkan wajan untuk memasak siap ke dala
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q2_EN — Comparative Reasoning
@@ -257,6 +277,8 @@ Setelah perencanaan ini, Anda dapat menambahkan wajan untuk memasak siap ke dala
 **Language:** English
 
 **Purpose:** Ability to analyse trade-offs
+
+---
 
 ### Prompt
 
@@ -295,19 +317,19 @@ Overall, I think local running would be simpler and more cost-effective for thei
 
 ### Response
 
-For a small rural school with unreliable internet access and limited computing equipment, running an AI language model locally on a computer offers several advantages:
-
-1. **Internet Dependency**: Local runs entirely on your personal PC without requiring any network connections, making it more convenient for schools lacking access to reliable external networks.
-
-2. **Cost Efficiency**: Initial setup costs are typically lower due to no upfront server requirements. This can be particularly beneficial if the school's primary need is a single model deployment rather than scalability or complex deployments.
-
-3. **Hardware Requirements**: The school may not require the high-end hardware that cloud services might, reducing the need for additional investment in servers or infrastructure.
-
-4. **Maintenance Simplicity**: Local deployment often involves easier configuration and manual adjustments of hyperparameters compared to cloud setups, which may require more advanced configurations and monitoring.
-
-5. **Security**: Cloud-based services offer encrypted environments, which is crucial if the school needs secure data storage and transmission, especially given their limited computing resources.
-
-While local running offers simplicity and cost-effectiveness, it might not be suitable for complex or high-performance models that require cloud-based infrastructure. However, in this constrained environment, local serving a single model is likely the most appropriate solution, allowing the school to experiment with AI models without significant upfront costs or technical challenges.
+> For a small rural school with unreliable internet access and limited computing equipment, running an AI language model locally on a computer offers several advantages:
+> 
+> 1. **Internet Dependency**: Local runs entirely on your personal PC without requiring any network connections, making it more convenient for schools lacking access to reliable external networks.
+> 
+> 2. **Cost Efficiency**: Initial setup costs are typically lower due to no upfront server requirements. This can be particularly beneficial if the school's primary need is a single model deployment rather than scalability or complex deployments.
+> 
+> 3. **Hardware Requirements**: The school may not require the high-end hardware that cloud services might, reducing the need for additional investment in servers or infrastructure.
+> 
+> 4. **Maintenance Simplicity**: Local deployment often involves easier configuration and manual adjustments of hyperparameters compared to cloud setups, which may require more advanced configurations and monitoring.
+> 
+> 5. **Security**: Cloud-based services offer encrypted environments, which is crucial if the school needs secure data storage and transmission, especially given their limited computing resources.
+> 
+> While local running offers simplicity and cost-effectiveness, it might not be suitable for complex or high-performance models that require cloud-based infrastructure. However, in this constrained environment, local serving a single model is likely the most appropriate solution, allowing the school to experiment with AI models without significant upfront costs or technical challenges.
 
 ### Performance
 
@@ -319,6 +341,14 @@ While local running offers simplicity and cost-effectiveness, it might not be su
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q2_ID — Comparative Reasoning
@@ -326,6 +356,8 @@ While local running offers simplicity and cost-effectiveness, it might not be su
 **Language:** Bahasa Indonesia
 
 **Purpose:** Ability to analyse trade-offs
+
+---
 
 ### Prompt
 
@@ -356,53 +388,53 @@ I should compare each aspect in both approaches clearly so the user can choose b
 
 ### Response
 
-**Perbedaan Perancangan untuk Menjalankan Model AI dengan Menggunakan Layanan AI Basis Cloud**
-
-Jika Anda ingin menjalankan model AI secara lokal di komputer sendiri, versus menggunakan layanan AI berbasis cloud, ada beberapa perbedaan penting ketahulanya dari sisi ketergantungan terhadap variabel-ketergantuan seperti:
-
-1. **Ketergantuan Terhadap Koneksi Internet**
-   - **Local Menjalankan:** Perlu memori danBIaya yang diandungkan, sehingga tidak diperlukan koneksi internet yang stabil.
-   - **Layanan Cloud:** Mungkin diperlukan internet yang terdaftar dan bekerja secara otomatis, sehingga lebih efisien untuk data streaming.
-
-2. **Ketergantuan Terhadap Privasi (Privacy)**
-   - **Local Menjalankan:** Data penting dari model AI ditempatkan di koneksi personal, sehingga privasi lebih cocok.
-   - **Layanan Cloud:** Mungkin diperlukan penilaian privasi saat data di ekstrak dari sementara.
-
-3. **Biaya**
-   - **Local Menjalankan:** Biaya mungkin lebih rendah karena tidak ada pengeluaran perlu untuk internet, data streaming, atau pemisoh-putih.
-   - **Layanan Cloud:** Mungkin lebih berpendek biaya sesuai dengan level of service yang diperlukan.
-
-4. **Performa**
-   - **Local Menjalankan:** Performa bisa lebih baik karena model AI dapat bekerja secara personal, sehingga performa lebih optimal.
-   - **Layanan Cloud:** Mungkin lebih efisien dalam handling task complex seperti machine learning dengan data yang terpotong atau diperlukan pemisoh-putih.
-
-5. **Pemeliharaan komputer**
-   - **Local Menjalankan:** Tetap perlu komputer yang tidak terdaftar (self-sustaining), sehingga pemeliharaan tetap di keruana.
-   - **Layanan Cloud:** Mungkin diperlukan manage separately, sehingga pemeliharaan bisa lebih mudah dipilih.
-
-**Kesimpulan:**
-- **Local Menjalankan AI model:** Sebaiknya digunakan ketika koneksi internet tidak terdaftar atau data streaming dibutuhkan. Ini lebih cocok untuk desain yang tetap personal dan mungkin sekitar area yang tidak ada internet.
-  
-- **Layanan Cloud Menjalankan AI model:** Menghillangkan jika penggunaan Anda akan selalu ditempatkan di internet tertentu, sehingga lebih efisien dalam manajemen data.
-
-** pendekatan yang cocok untuk sekolah kecil dengan akses interna tidak stabil dan komputer terbatas:**
-
-- **Local Menjalankan AI model:** Ini adalah solusi yang cocok karena:
-  - Semua pemeliharaan tetap di keruana, sehingga tidak diperlukan pengalaman tentang internet.
-  - Beberapa biaya yang lebih rendah karena tidak ada pengeluaran untuk internet atau data streaming.
-  - Performa yang lebih baik karena model AI dapat bekerja secara personal.
-
-**Pro dan Kono contra:**
-- **Peran:** Solusi ini memungkinkan seorang pendidik yang terdapat di kantor akan menggunakan AI model tanpa merugikan privasi.
-  
-- **Konoira:** Namun, perlu memastikan bahwa model AI yang digunakan mengandikan biaya yang benar. Jika model terlalu complex atau memiliki performa yang jauh lebih baik daripada aspek manajemen data, ini bisa menjadi problem.
-
-**Rangklan:**
-- **Peran:** Solusi ini berdasarkan pendekatan individual, sehingga lebih cocok untuk sebank-pendkat yang sudah menghabilkan sendiri.
-  
-- **Konoira:** Namun, jika desain school terlalu abad, ini mungkin menyebabkan pemisoh-putih atau data yang tidak valid.
-
-Jadi, solusi local AI dapat diperlukan ketika koneksi internet tidak terdaftar dan data streaming dibutuhkan, tetapi solusi cloud adalah alternatif jika kesehatan internet diharapkan.
+> **Perbedaan Perancangan untuk Menjalankan Model AI dengan Menggunakan Layanan AI Basis Cloud**
+> 
+> Jika Anda ingin menjalankan model AI secara lokal di komputer sendiri, versus menggunakan layanan AI berbasis cloud, ada beberapa perbedaan penting ketahulanya dari sisi ketergantungan terhadap variabel-ketergantuan seperti:
+> 
+> 1. **Ketergantuan Terhadap Koneksi Internet**
+>    - **Local Menjalankan:** Perlu memori danBIaya yang diandungkan, sehingga tidak diperlukan koneksi internet yang stabil.
+>    - **Layanan Cloud:** Mungkin diperlukan internet yang terdaftar dan bekerja secara otomatis, sehingga lebih efisien untuk data streaming.
+> 
+> 2. **Ketergantuan Terhadap Privasi (Privacy)**
+>    - **Local Menjalankan:** Data penting dari model AI ditempatkan di koneksi personal, sehingga privasi lebih cocok.
+>    - **Layanan Cloud:** Mungkin diperlukan penilaian privasi saat data di ekstrak dari sementara.
+> 
+> 3. **Biaya**
+>    - **Local Menjalankan:** Biaya mungkin lebih rendah karena tidak ada pengeluaran perlu untuk internet, data streaming, atau pemisoh-putih.
+>    - **Layanan Cloud:** Mungkin lebih berpendek biaya sesuai dengan level of service yang diperlukan.
+> 
+> 4. **Performa**
+>    - **Local Menjalankan:** Performa bisa lebih baik karena model AI dapat bekerja secara personal, sehingga performa lebih optimal.
+>    - **Layanan Cloud:** Mungkin lebih efisien dalam handling task complex seperti machine learning dengan data yang terpotong atau diperlukan pemisoh-putih.
+> 
+> 5. **Pemeliharaan komputer**
+>    - **Local Menjalankan:** Tetap perlu komputer yang tidak terdaftar (self-sustaining), sehingga pemeliharaan tetap di keruana.
+>    - **Layanan Cloud:** Mungkin diperlukan manage separately, sehingga pemeliharaan bisa lebih mudah dipilih.
+> 
+> **Kesimpulan:**
+> - **Local Menjalankan AI model:** Sebaiknya digunakan ketika koneksi internet tidak terdaftar atau data streaming dibutuhkan. Ini lebih cocok untuk desain yang tetap personal dan mungkin sekitar area yang tidak ada internet.
+>   
+> - **Layanan Cloud Menjalankan AI model:** Menghillangkan jika penggunaan Anda akan selalu ditempatkan di internet tertentu, sehingga lebih efisien dalam manajemen data.
+> 
+> ** pendekatan yang cocok untuk sekolah kecil dengan akses interna tidak stabil dan komputer terbatas:**
+> 
+> - **Local Menjalankan AI model:** Ini adalah solusi yang cocok karena:
+>   - Semua pemeliharaan tetap di keruana, sehingga tidak diperlukan pengalaman tentang internet.
+>   - Beberapa biaya yang lebih rendah karena tidak ada pengeluaran untuk internet atau data streaming.
+>   - Performa yang lebih baik karena model AI dapat bekerja secara personal.
+> 
+> **Pro dan Kono contra:**
+> - **Peran:** Solusi ini memungkinkan seorang pendidik yang terdapat di kantor akan menggunakan AI model tanpa merugikan privasi.
+>   
+> - **Konoira:** Namun, perlu memastikan bahwa model AI yang digunakan mengandikan biaya yang benar. Jika model terlalu complex atau memiliki performa yang jauh lebih baik daripada aspek manajemen data, ini bisa menjadi problem.
+> 
+> **Rangklan:**
+> - **Peran:** Solusi ini berdasarkan pendekatan individual, sehingga lebih cocok untuk sebank-pendkat yang sudah menghabilkan sendiri.
+>   
+> - **Konoira:** Namun, jika desain school terlalu abad, ini mungkin menyebabkan pemisoh-putih atau data yang tidak valid.
+> 
+> Jadi, solusi local AI dapat diperlukan ketika koneksi internet tidak terdaftar dan data streaming dibutuhkan, tetapi solusi cloud adalah alternatif jika kesehatan internet diharapkan.
 
 ### Performance
 
@@ -414,6 +446,14 @@ Jadi, solusi local AI dapat diperlukan ketika koneksi internet tidak terdaftar d
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q3_EN — Teacher-Oriented Task
@@ -421,6 +461,8 @@ Jadi, solusi local AI dapat diperlukan ketika koneksi internet tidak terdaftar d
 **Language:** English
 
 **Purpose:** Teacher-oriented educational use case
+
+---
 
 ### Prompt
 
@@ -459,61 +501,61 @@ I think I have all the components now: explaining it simply, creating five disti
 
 ### Response
 
-### Explanation of Photosynthesis:
-
-Photosynthesis is a process that plants use sunlight to make food from carbon dioxide (CO2) and water. It occurs in the leaves of plants where chlorophyll, found in the thylakoid membranes of the chloroplasts, captures light energy through photon absorption.
-
----
-
-### Factual Recall Questions
-
-1. What happens when plants need sunlight for photosynthesis?
-   - They absorb photons to power chemical reactions.
-   - Chlorophyll helps capture light energy.
-   - Plants produce their own oxygen and carbon dioxide.
-   - All of the above.
-
-2. Which part of the plant contains chlorophyll that is essential for photosynthesis?
-   - The top layer of leaves (epidermis).
-   - The surface of the leaf blade.
-   - The inner parts of the blade.
-   - None of the above.
-
----
-
-### Conceptual Understanding Questions
-
-3. How does chlorophyll help in the process of photosynthesis?  
-   - Chlorophyll captures light energy from the sun.  
-   - Chlorophyll absorbs carbon dioxide to power the reactions.  
-   - Chlorophyll is involved in releasing oxygen.  
-   - Chlorophyll forms the main molecules during photosynthesis.
-
-4. After photosynthesis, what happens with the products?  
-   - Carbon dioxide and water are used up.
-   - Glucose and oxygen are produced.
-   - The products are utilized for growth or respiration.
-   - All of the above.
-
----
-
-### Application of Photosynthesis
-
-5. Why is chlorophyll in leaves important for photosynthesis?
-   - Chlorophyll helps plants absorb sunlight.
-   - Chlorophyll captures light energy to power reactions.
-   - Chlorophyll releases oxygen into the atmosphere.
-   - None of the above.
-
----
-
-### Answer Key:
-
-1. A, B
-2. D
-3. B
-4. D
-5. A
+> ### Explanation of Photosynthesis:
+> 
+> Photosynthesis is a process that plants use sunlight to make food from carbon dioxide (CO2) and water. It occurs in the leaves of plants where chlorophyll, found in the thylakoid membranes of the chloroplasts, captures light energy through photon absorption.
+> 
+> ---
+> 
+> ### Factual Recall Questions
+> 
+> 1. What happens when plants need sunlight for photosynthesis?
+>    - They absorb photons to power chemical reactions.
+>    - Chlorophyll helps capture light energy.
+>    - Plants produce their own oxygen and carbon dioxide.
+>    - All of the above.
+> 
+> 2. Which part of the plant contains chlorophyll that is essential for photosynthesis?
+>    - The top layer of leaves (epidermis).
+>    - The surface of the leaf blade.
+>    - The inner parts of the blade.
+>    - None of the above.
+> 
+> ---
+> 
+> ### Conceptual Understanding Questions
+> 
+> 3. How does chlorophyll help in the process of photosynthesis?  
+>    - Chlorophyll captures light energy from the sun.  
+>    - Chlorophyll absorbs carbon dioxide to power the reactions.  
+>    - Chlorophyll is involved in releasing oxygen.  
+>    - Chlorophyll forms the main molecules during photosynthesis.
+> 
+> 4. After photosynthesis, what happens with the products?  
+>    - Carbon dioxide and water are used up.
+>    - Glucose and oxygen are produced.
+>    - The products are utilized for growth or respiration.
+>    - All of the above.
+> 
+> ---
+> 
+> ### Application of Photosynthesis
+> 
+> 5. Why is chlorophyll in leaves important for photosynthesis?
+>    - Chlorophyll helps plants absorb sunlight.
+>    - Chlorophyll captures light energy to power reactions.
+>    - Chlorophyll releases oxygen into the atmosphere.
+>    - None of the above.
+> 
+> ---
+> 
+> ### Answer Key:
+> 
+> 1. A, B
+> 2. D
+> 3. B
+> 4. D
+> 5. A
 
 ### Performance
 
@@ -525,6 +567,14 @@ Photosynthesis is a process that plants use sunlight to make food from carbon di
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q3_ID — Teacher-Oriented Task
@@ -532,6 +582,8 @@ Photosynthesis is a process that plants use sunlight to make food from carbon di
 **Language:** Bahasa Indonesia
 
 **Purpose:** Teacher-oriented educational use case
+
+---
 
 ### Prompt
 
@@ -564,35 +616,35 @@ I need to structure each question clearly, with four options and a correct answe
 
 ### Response
 
-Sebelum membantu seorang guru IPA kelas 7, jelaskan photosynthesis dengan bahasa yang sesuai untuk siswa kelas 7:
-
-Photosynthesis adalah proses dalam bendera (\( C_6H_{12}O_6 \)) yang mencegah carbon dioxide (\( CO_2 \)) dan hujan (\( H_2O \)) menjadi energy yang dapat digunakan untuk menyusun sementara. Sembutnya seharusnya adalah "proses bendera mengubah carbon dioxide dan water menjadi sementara" atau "proses bendera menggantikan CO₂ dan water ke sementara."
-
-**Lima Soal Pilihan Ganda:**
-
-1. **Kunci Jawa:**  
-   *Pernyataan yang benar tentang photosynthesis adalah:*  
-   \(\text{“Photosynthesis adalah proses bendera yang mencegah carbon dioxide menjadi sementara.”}\)  
-
-2. **Pernyataan yang benar:***  
-   \(\text{“Hasil photosynthesis berupa sementara, yang merupakan energy yang diperlukan untuk digunakan.”}\)  
-
-3. **Pernyataan yang benar:***  
-   \(\text{“Hasil photosynthesis biasanya terjadi dalam bendera seperti pko (peta merah) dan ikk (ikas kering).”}\)  
-
-4. **Pernyataan yang benar:***  
-   \(\text{“ photosynthesis membutuhkan lebih dari air untuk menghasilkan sementara.”}\)  
-
-5. **Pernyataan yang benar:***  
-   \(\text{“ photosynthesis bisa dilakukan oleh bendera seperti kelp dan sendok, tetapi tidak semua bendera bisa melakukan photosynthesis.”}\)  
-
-**Kunci jawaban:**
-
-1. Pernyataan pertama.  
-2. Pernyataan kedua.  
-3. Pernyataan ketiga.  
-4. Pernyataan keempat.  
-5. Kinerja terakhir.
+> Sebelum membantu seorang guru IPA kelas 7, jelaskan photosynthesis dengan bahasa yang sesuai untuk siswa kelas 7:
+> 
+> Photosynthesis adalah proses dalam bendera (\( C_6H_{12}O_6 \)) yang mencegah carbon dioxide (\( CO_2 \)) dan hujan (\( H_2O \)) menjadi energy yang dapat digunakan untuk menyusun sementara. Sembutnya seharusnya adalah "proses bendera mengubah carbon dioxide dan water menjadi sementara" atau "proses bendera menggantikan CO₂ dan water ke sementara."
+> 
+> **Lima Soal Pilihan Ganda:**
+> 
+> 1. **Kunci Jawa:**  
+>    *Pernyataan yang benar tentang photosynthesis adalah:*  
+>    \(\text{“Photosynthesis adalah proses bendera yang mencegah carbon dioxide menjadi sementara.”}\)  
+> 
+> 2. **Pernyataan yang benar:***  
+>    \(\text{“Hasil photosynthesis berupa sementara, yang merupakan energy yang diperlukan untuk digunakan.”}\)  
+> 
+> 3. **Pernyataan yang benar:***  
+>    \(\text{“Hasil photosynthesis biasanya terjadi dalam bendera seperti pko (peta merah) dan ikk (ikas kering).”}\)  
+> 
+> 4. **Pernyataan yang benar:***  
+>    \(\text{“ photosynthesis membutuhkan lebih dari air untuk menghasilkan sementara.”}\)  
+> 
+> 5. **Pernyataan yang benar:***  
+>    \(\text{“ photosynthesis bisa dilakukan oleh bendera seperti kelp dan sendok, tetapi tidak semua bendera bisa melakukan photosynthesis.”}\)  
+> 
+> **Kunci jawaban:**
+> 
+> 1. Pernyataan pertama.  
+> 2. Pernyataan kedua.  
+> 3. Pernyataan ketiga.  
+> 4. Pernyataan keempat.  
+> 5. Kinerja terakhir.
 
 ### Performance
 
@@ -604,6 +656,14 @@ Photosynthesis adalah proses dalam bendera (\( C_6H_{12}O_6 \)) yang mencegah ca
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q4_EN — Objectively Verifiable Reasoning
@@ -611,6 +671,8 @@ Photosynthesis adalah proses dalam bendera (\( C_6H_{12}O_6 \)) yang mencegah ca
 **Language:** English
 
 **Purpose:** Reasoning with a clearly verifiable correct result
+
+---
 
 ### Prompt
 
@@ -644,44 +706,44 @@ Therefore, 36 students participate in the science club.
 
 ### Response
 
-**Step-by-Step Solution:**
-
-1. **Find the number of students participating in at least one extracurricular activity.**
-
-   - The total number of students in the school is **240**.
-   - Three-fifths of these students participate in at least one extracurricular activity.
-
-   \[
-   \text{Number of students in extracurricular activities} = \frac{3}{5} \times 240
-   \]
-
-   \[
-   \frac{3}{5} \times 240 = 144
-   \]
-
-   So, **144 students** participate in at least one extracurricular activity.
-
-2. **Determine how many of these students are in the science club.**
-
-   - It's given that **25% (or a quarter)** of the students who participate in extracurricular activities join the science club.
-
-   \[
-   \text{Number of students in the science club} = 25\% \times 144
-   \]
-
-   \[
-   0.25 \times 144 = 36
-   \]
-
-   Therefore, **36 students** participate in the science club.
-
-**Final Answers:**
-
-1. **Number of students participating in at least one extracurricular activity:**  
-   \(\boxed{144}\)
-
-2. **Number of students in the science club:**  
-   \(\boxed{36}\)
+> **Step-by-Step Solution:**
+> 
+> 1. **Find the number of students participating in at least one extracurricular activity.**
+> 
+>    - The total number of students in the school is **240**.
+>    - Three-fifths of these students participate in at least one extracurricular activity.
+> 
+>    \[
+>    \text{Number of students in extracurricular activities} = \frac{3}{5} \times 240
+>    \]
+> 
+>    \[
+>    \frac{3}{5} \times 240 = 144
+>    \]
+> 
+>    So, **144 students** participate in at least one extracurricular activity.
+> 
+> 2. **Determine how many of these students are in the science club.**
+> 
+>    - It's given that **25% (or a quarter)** of the students who participate in extracurricular activities join the science club.
+> 
+>    \[
+>    \text{Number of students in the science club} = 25\% \times 144
+>    \]
+> 
+>    \[
+>    0.25 \times 144 = 36
+>    \]
+> 
+>    Therefore, **36 students** participate in the science club.
+> 
+> **Final Answers:**
+> 
+> 1. **Number of students participating in at least one extracurricular activity:**  
+>    \(\boxed{144}\)
+> 
+> 2. **Number of students in the science club:**  
+>    \(\boxed{36}\)
 
 ### Performance
 
@@ -693,6 +755,14 @@ Therefore, 36 students participate in the science club.
 - Done reason: stop
 - Thinking requested: True
 
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
+
 ---
 
 ## Q4_ID — Objectively Verifiable Reasoning
@@ -700,6 +770,8 @@ Therefore, 36 students participate in the science club.
 **Language:** Bahasa Indonesia
 
 **Purpose:** Reasoning with a clearly verifiable correct result
+
+---
 
 ### Prompt
 
@@ -721,35 +793,35 @@ Selanjutnya, dari siswa yang mengikuti kegiatan ekstrakurikuler tersebut, 25% me
 
 ### Response
 
-**Penyelesaian:**
-
-Diketahui:
-- Total siswa di sekolah = 240
-- Siswanya yang mengikuti kegiatan ekstrakurikuler = 3/5 dari total siswa
-
-1. **Bersiwa Mencari Siswa yang Mengikuti Kegiatan Ekstrakurikuler:**
-
-   Jika total siswa adalah 240, maka:
-   
-   \[
-   \text{Siswanya yang mengikuti kegiatan ekstrakurikuler} = \frac{3}{5} \times 240 = 144
-   \]
-
-2. **Bersiwa Mencari Siswa yang Mengikuti klub Sains:**
-
-   Dari siswa yang mengikuti kegiatan ekstrakurikuler, yaitu 144 siswa, 25% mengikuti klub sains.
-   
-   Jadi:
-   
-   \[
-   \text{Siswanya yang mengikuti klub sains} = 25\% \times 144 = 0.25 \times 144 = 36
-   \]
-
-**Jawaban:**
-
-1. **Siswa yang mengikuti setidaknya satu kegiatan ekstrakurikuler:** \(\boxed{144}\)
-   
-2. **Siswa yang mengikuti klub sains:** \(\boxed{36}\)
+> **Penyelesaian:**
+> 
+> Diketahui:
+> - Total siswa di sekolah = 240
+> - Siswanya yang mengikuti kegiatan ekstrakurikuler = 3/5 dari total siswa
+> 
+> 1. **Bersiwa Mencari Siswa yang Mengikuti Kegiatan Ekstrakurikuler:**
+> 
+>    Jika total siswa adalah 240, maka:
+>    
+>    \[
+>    \text{Siswanya yang mengikuti kegiatan ekstrakurikuler} = \frac{3}{5} \times 240 = 144
+>    \]
+> 
+> 2. **Bersiwa Mencari Siswa yang Mengikuti klub Sains:**
+> 
+>    Dari siswa yang mengikuti kegiatan ekstrakurikuler, yaitu 144 siswa, 25% mengikuti klub sains.
+>    
+>    Jadi:
+>    
+>    \[
+>    \text{Siswanya yang mengikuti klub sains} = 25\% \times 144 = 0.25 \times 144 = 36
+>    \]
+> 
+> **Jawaban:**
+> 
+> 1. **Siswa yang mengikuti setidaknya satu kegiatan ekstrakurikuler:** \(\boxed{144}\)
+>    
+> 2. **Siswa yang mengikuti klub sains:** \(\boxed{36}\)
 
 ### Performance
 
@@ -760,3 +832,11 @@ Diketahui:
 - Generation speed: 50.08 tokens/s
 - Done reason: stop
 - Thinking requested: True
+
+### Review
+
+| Evaluator | Accuracy (& Safety) | Instruction Following | Clarity & Usefulness | Language Quality | Total / 8 |
+|---|---:|---:|---:|---:|---:|
+| Human |  |  |  |  |  |
+| AI |  |  |  |  |  |
+
